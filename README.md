@@ -1,16 +1,17 @@
-# girl_hackathon
+## Google Girls Hackathon
 
-A new Flutter project.
+# Team Name: Three of a Kind
 
-## Getting Started
+# Team Members
+1. Ishika Chokshi
+2. Devanshi Jhaveri
+3. Bhoomika Valani
 
-This project is a starting point for a Flutter application.
+# Problem Statement
+Theme: Digital Literacy and its Accessibility
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Ease out the digital experience for elderly by providing expert assistance on using digital applications in the form of tutorial videos, live tutors and one to one sessions
+Deliver a multilingual, voice assisted application that makes the use of other digital applications (web, mobile, smartphones) easier 
+Offer cross platform compatibility, usability and a seamless user experience with instruction overlays at each step..
+A senior-citizen friendly user interface 
+Promote community bonding by helping them create a community or join one to connect with like-minded peers and foster collaborative learning and enhanced motivation to learn. 
