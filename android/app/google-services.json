@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1010622529437",
+    "project_id": "girlhackathon-cdf1c",
+    "storage_bucket": "girlhackathon-cdf1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010622529437:android:61050e14a08402a4d2b974",
+        "android_client_info": {
+          "package_name": "com.example.girl_hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010622529437-vqr3r1jq423hoevorl5esicdkqb3u8kh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.girl_hackathon",
+            "certificate_hash": "bd96a736d09e5793faf2adab6a6f312223e83d9a"
+          }
+        },
+        {
+          "client_id": "1010622529437-ohji12c8ug757qj20t8rhs6i3odo4t7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw5qoSQ7U1H-g9RCH04pectN4AUGdvauY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010622529437-ohji12c8ug757qj20t8rhs6i3odo4t7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
